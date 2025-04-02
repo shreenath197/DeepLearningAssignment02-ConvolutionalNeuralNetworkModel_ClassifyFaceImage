@@ -1,12 +1,11 @@
 # Deep-Learning-Assignment02-Convolutional-Neural-Network-CNN-model_classify-face-image
-Deep-Learning-Assignment02-Convolutional-Neural-Network-CNN-model_classify-face-image
- Thursday, 30 January 2025, 11:55 PM
-PGP in AI/ML
-C6 - Deep Learning
 
-Assignment 2
+# PGP in AI/ML C6 - Deep Learning
 
-Problem Statement:
+# Assignment 2
+
+# Problem Statement:
+
 During the COVID-19 pandemic, identifying whether individuals are wearing face masks has become a critical task. In this assignment, your objective is to develop a Convolutional Neural Network (CNN) model to classify face images as either "masked" or "unmasked."
 
 Note:
@@ -57,8 +56,3 @@ Modify the default CNN model to improve its performance. For example, you may ch
 
 Visualize Predictions
 Display 5 sample images from the test set predicted as "masked" and 5 predicted as "unmasked." Include the predicted labels for each image. [1 mark]
-
-Submission Guidelines:
-Consolidate the code, plots, and results in a single Jupyter Notebook file.
-Submit both the .ipynb file and an HTML export of the notebook.
-Ensure the notebook includes all required outputs, such as the model architecture, training graphs, evaluation metrics, and sample predictions.
